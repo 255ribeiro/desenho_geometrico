@@ -1,37 +1,237 @@
-## Welcome to GitHub Pages
+# Desenho Geométirco
 
-You can use the [editor on GitHub](https://github.com/255ribeiro/desenho_geometrico/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
 
-```markdown
-Syntax highlighted code block
+Grupo de informações (e-mail):
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+___
 
-**Bold** and _Italic_ and `Code` text
+## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 
-[Link](url) and ![Image](src)
-```
+___
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Plano de Aulas
 
-### Jekyll Themes
+___
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/255ribeiro/desenho_geometrico/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Aula 01 - (18/02/2019)
 
-### Support or Contact
+1. Apresentação da disciplina
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Importância do desenho geométrico
+
+1. Material de desenho
+
+___
+
+### Aula 02 - (20/02/2019)
+
+1. Ponto
+
+1. Reta
+    - semi-reta
+    - segmento de reta
+
+1. Plano
+
+1. Espaço
+
+1. crírculo
+
+1. Construções Fundamentais
+    - triângulo equilátero
+    - perpendicular
+    - paralela
+
+___
+
+### Aula 03 - (25/02/2019)
+
+
+
+___
+
+### Aula 04 - (11/03/2019)
+
+
+___
+
+### Aula 05 - (13/03/2019)
+
+
+___
+
+### Aula 06 - (18/03/2019)
+
+
+___
+
+### Aula 07 - (20/03/2019)
+
+
+
+___
+
+### Aula 08 - (25/03/2019)
+
+
+
+___
+
+### Aula 09 - (27/03/2019)
+
+
+
+___
+
+### Aula 10 - (01/04/2019)
+
+
+
+___
+
+### Aula 11 - (03/04/2019)
+
+
+___
+
+### Aula 12 - (08/04/2019)
+
+
+___
+
+### Aula 13 - (10/04/2019)
+
+
+___
+
+### Aula 14 - (15/04/2019)
+
+
+___
+
+### Aula 15 - (17/04/2019)
+
+
+___
+
+### Aula 16 - (22/04/2019)
+
+
+
+___
+
+### Aula 17 - (24/04/2019)
+
+
+
+___
+
+### Aula 17 - (29/04/2019)
+
+
+
+___
+
+### Aula 18 - (29/04/2019)
+
+
+
+___
+
+### Aula 19 - (29/04/2019)
+
+
+
+___
+
+### Aula 20 - (29/04/2019)
+
+
+
+___
+
+### Aula 21 - (29/04/2019)
+
+
+
+___
+
+### Aula 22 - (29/04/2019)
+
+
+
+___
+
+### Aula 23 - (29/04/2019)
+
+
+
+___
+
+### Aula 24 - (29/04/2019)
+
+
+
+___
+
+### Aula 25 - (29/04/2019)
+
+
+
+___
+
+### Aula 26 - (29/04/2019)
+
+
+
+___
+
+### Aula 27 - (29/04/2019)
+
+
+
+___
+
+### Aula 29 - (29/04/2019)
+
+
+
+___
+
+### Aula 30 - (29/04/2019)
+
+
+
+___
+
+### Aula 31 - (29/04/2019)
+
+
+
+___
+
+### Aula 32 - (29/04/2019)
+
+
+
+___
+
+### Aula 33 - (29/04/2019)
+
+
+
+___
+
+### Aula 34 - (29/04/2019)
+
+
+
+___
+___
