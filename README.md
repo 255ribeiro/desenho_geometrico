@@ -12,6 +12,10 @@ ___
 
 ___
 
+## [Plano de Curso](./UFBA_plano_de_curso_Arq005_DESENHO_GEOMETRICO_I_2019.1.pdf)
+
+___
+
 ## Plano de Aulas
 
 ___
@@ -77,6 +81,8 @@ ___
 
     - Média proporcional
     - Média extrema razão
+
+    [exemplos](http://www.uel.br/cce/mat/geometrica/php/pdf/dg_ex4_res.pdf)
 
 ___
 
