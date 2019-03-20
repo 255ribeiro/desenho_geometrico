@@ -85,7 +85,7 @@ ___
     [exercícios razão aurea](http://www.uel.br/cce/mat/geometrica/php/pdf/dg_ex4_res.pdf)
 
 ___
-
+ 
 ### Aula 06 - (18/03/2019)
 
 1. ÂNGULOS
