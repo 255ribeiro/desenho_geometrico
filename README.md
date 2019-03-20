@@ -82,7 +82,7 @@ ___
     - Média proporcional
     - Média extrema razão
 
-    [exemplos](http://www.uel.br/cce/mat/geometrica/php/pdf/dg_ex4_res.pdf)
+    [exercícios razão aurea](http://www.uel.br/cce/mat/geometrica/php/pdf/dg_ex4_res.pdf)
 
 ___
 
