@@ -97,7 +97,7 @@ ___
     - Transporte de Ângulos
     - Construções geométricas de ângulos
 
-    [construçãod e ângulos](https://www.ensinoeinformacao.com/desenho-geom-constru-e-diviso-ngulos#!)
+    [construção de ângulos](https://www.ensinoeinformacao.com/desenho-geom-constru-e-diviso-ngulos#!)
 
 ___
 
@@ -107,8 +107,6 @@ ___
 
     - Ângulos formados por duas paralelas cortadas por uma transversal.
     - Teoremas.
-
-
 
 ___
 
