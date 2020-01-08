@@ -1,11 +1,9 @@
-# Desenho Geométirco
+# Desenho Geométrico
 
 Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
-
 ___
 
 Grupo de informações (e-mail):
-
 ___
 
 ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
@@ -43,12 +41,12 @@ ___
 
 1. Espaço
 
-1. crírculo
+1. círculo
 
 1. Construções Fundamentais
 
     - triângulo equilátero
-    - triângulo isoceles
+    - triângulo isósceles
     - perpendicular
     - paralela
 
@@ -132,7 +130,7 @@ ___
 
 1. 1ª AVALIAÇÃO  (Peso - 3)
 
-    - AVALIAÇÃO INDIVIDUAL 
+    - AVALIAÇÃO INDIVIDUAL
     - com consulta dos exercícios feitos em sala de aula
 
 ___
@@ -246,15 +244,13 @@ ___
 
 1. SEMELHANÇA / HOMOTETIA
 
-    - Homotetia inversa e Hootetia Direta.
+    - Homotetia inversa e Homotetia Direta.
 
 ___
 
 ### Aula 24 - (29/04/2019)
 
 1. POLIEDROS
-
-
 
 ___
 
