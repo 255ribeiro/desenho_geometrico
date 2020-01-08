@@ -211,7 +211,6 @@ ___
 
 1. 2ª Avaliação (Peso - 4)
     - AVALIAÇÃO INDIVIDUAL
-
 ___
 
 ### Aula 20 - (29/04/2019)
